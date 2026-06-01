@@ -42,4 +42,4 @@ View the complete UI/UX design:
 
 **Fatma Ammar**
 
-Pre-Engineering Student | Software Development Enthusiast
+Software Engineering Student 
